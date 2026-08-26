@@ -1,2 +1,4 @@
 # Visual-Prompt-Studio
-This is my prompt portfolio for my Art Appreciation Class.
+Erendira Luviano
+Art Appreciation
+This is my prompt portfolio for my Art Appreciation Class 
